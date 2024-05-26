@@ -236,7 +236,7 @@ content.addEventListener('click', function() {
     } else if (scene == 23 && count == -5) {
         text.style.fontSize = '18px';
         text.style.top = '23%';
-        text.innerHTML = 'teruntuk Cut Zakia Salsabilla sang bangsawan dari aceh yang tinggal di curup wkwk, Happy Birthday kiaaa';
+        text.innerHTML = 'teruntuk Cut Zakia Salsabila sang bangsawan dari aceh yang tinggal di curup wkwk, Happy Birthday kiaaa';
         play();
     } else if (scene == 24 && count == -5) {
         text.style.fontSize = '18px';
